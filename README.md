@@ -1,4 +1,4 @@
-# Dirty Hands GTM
+# Open Folders GTM
 
 **Tactical AI systems for go-to-market operators.**
 
