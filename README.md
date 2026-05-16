@@ -6,7 +6,7 @@
 
 ## What This Is
 
-An open-source framework and execution toolkit for building AI-powered GTM systems in Claude Code. Companion repo to the [Dirty Hands](https://dirtyhandsgtm.substack.com/) newsletter. Subscribe to Dirty Hands to get new Claude Code GTM walkthroughs and updates to the repo.
+An open-source framework and execution toolkit for building AI-powered GTM systems in Claude Code.
 
 This is not a prompt library. It is a structured system with three layers:
 
